@@ -1,0 +1,7 @@
+{
+  "name": "cwp-22-2",
+  "version": "0.0.1",
+  "dependencies": {
+    "cwp-22-1-mav": "0.0.5"
+  }
+}
